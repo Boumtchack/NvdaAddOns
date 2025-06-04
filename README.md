@@ -1,5 +1,10 @@
 # NvdaAddOns
 
+1. copy file into Nvda/userConfig/addons
+2. unzip
+3. enjoy
+
+
 ## Nvda Magnifier
 
 - press `NVDA+shift+w` to toggle on/off the magnifier
