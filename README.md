@@ -2,9 +2,9 @@
 
 ## Nvda Magnifier
 
-press `NVDA+shift+w` to toggle on/off the magnifier
-press `NVDA+shift+upArrow` to zoom-in the magnifier
-press `NVDA+shift+downArrow` to zoom-out the magnifier
+- press `NVDA+shift+w` to toggle on/off the magnifier
+- press `NVDA+shift+upArrow` to zoom-in the magnifier
+- press `NVDA+shift+downArrow` to zoom-out the magnifier
 
 there is two version to follow windows magnifier options
 
